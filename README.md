@@ -1,0 +1,2 @@
+# Tip-Calculator
+This Python project is a handy calculator that helps you determine how much each person should contribute towards a restaurant bill, including the tip. Simply enter the total bill amount and select the desired tip percentage (10%, 12%, or 15%). Additionally, specify the number of people splitting the bill. The calculator then calculates the fair contribution for each person, ensuring an equal distribution of expenses. It simplifies the process of splitting bills and promotes fair sharing of costs among friends, colleagues, or family members dining together
